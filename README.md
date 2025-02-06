@@ -3,8 +3,8 @@
 <br>
 **2.JavaScript-ро дар кадом сохахахои барномасози истифода бурдан мумкин аст ?** <br>
    +1.Таҳияи Веб (Frontend Development).
-   <details>
-     +1.Таҳияи Веб (Frontend Development).
-     <sumary>#JavaScript бо HTML ва CSS якҷоя истифода мешавад, то вебсайтҳоро интерактивӣ ва динамикӣ гардонад.#
+   <details>+1.Таҳияи Веб (Frontend Development).
+     <sumary>
+        #JavaScript бо HTML ва CSS якҷоя истифода мешавад, то вебсайтҳоро интерактивӣ ва динамикӣ гардонад.#
        <sumary/>
    <details/>
